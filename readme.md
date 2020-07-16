@@ -1,0 +1,1 @@
+Resumen del libro de Miguel Grinberg, Desarrollo de aplicaciones web con Flask
